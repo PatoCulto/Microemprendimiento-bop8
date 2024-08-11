@@ -127,3 +127,13 @@ li{
     /*left:600px;
     bottom: 300px;*/
 }
+.caja_1{
+    width: 70%;
+    padding: 10px;
+    background-color: #ededed;
+    box-shadow: 0 0 2px #000;
+    border-radius: 3px;
+    display: inline-block;    
+    margin: 10px;
+    position: relative;
+}
