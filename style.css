@@ -113,3 +113,17 @@ main{
 .main-article-3:hover{
     background-color: #ddd;
 }
+li{
+    list-style: none;
+}
+.fotos-envido{
+    width: 20em;
+    height: 14em;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    position: relative;
+    border: #000 solid 1px;
+    /*left:600px;
+    bottom: 300px;*/
+}
