@@ -54,14 +54,13 @@ body{
 
 main{
     position: absolute;
- 
     margin: 10px;
     padding: 10px;
 
 }
 
 .main-article-1{
-    height: 270px;
+    
     width: 200px;
     padding: 10px;
     background-color: #ededed;
@@ -73,7 +72,7 @@ main{
 
 }
 .main-article-2{
-    height: 270px;
+    
     width: 200px;
     padding: 10px;
     background-color: #ededed;
@@ -84,7 +83,7 @@ main{
     position: relative;
 }
 .main-article-3{
-    height: 270px;
+    
     width: 200px;
     padding: 10px;
     background-color: #ededed;
