@@ -115,11 +115,12 @@ main{
     top: 0;
     right: 0;
     margin: auto;
+    border-radius: 3px;
 }
 .main-article-img-SM{
     
     height: 100px;
-    width: 100px;
+    width: 120px;
     display: block;
     position: relative;
     left: 0;
@@ -127,6 +128,7 @@ main{
     top: 0;
     right: 0;
     margin: auto;
+    border-radius: 3px;
 }
 .articulo{
     color: #000;
@@ -204,3 +206,5 @@ button{
     text-decoration: none;
     color: #fff;
 }
+
+/*4B*/
