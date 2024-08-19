@@ -52,7 +52,7 @@ body{
 
 
 main{
-    position: absolute;
+    position: relative;
     margin: 10px;
     padding: 10px;
 
@@ -207,4 +207,12 @@ button{
     color: #fff;
 }
 
+footer{
+    background-color: #ddd;
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding: 10px;
+}
 /*4B*/
