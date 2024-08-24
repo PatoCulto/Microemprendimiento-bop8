@@ -176,7 +176,7 @@ li{
     bottom: 300px;*/
 }
 .fotos-llaveros{
-    width: 13em;
+    width: 17em;
     height: 10em;
     margin: 0;
     padding: 0;
@@ -225,3 +225,36 @@ footer h6{
 
 }
 /*4B*/
+.fotos-radio{
+    width: 13em;
+    height: 16em;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    position: relative;
+    border: #000 solid 1px;
+    /*left:600px;
+    bottom: 300px;*/   
+}
+.fotos-pan{
+    width: 19em;
+    height: 13em;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    position: relative;
+    border: #000 solid 1px;
+    /*left:600px;
+    bottom: 300px;*/   
+}
+.fotos-pizza{
+    width: 19em;
+    height: 13em;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    position: relative;
+    border: #000 solid 1px;
+    /*left:600px;
+    bottom: 300px;*/   
+}
