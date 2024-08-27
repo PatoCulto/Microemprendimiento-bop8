@@ -225,6 +225,45 @@ footer h6{
 
 }
 /*4B*/
+.main-article-img-PZ{
+    
+    height: 120px;
+    width: 120px;
+    display: block;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 3px;
+}
+.main-article-img-R{
+    
+    height: 150px;
+    width: 120px;
+    display: block;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 3px;
+}
+.main-article-img-P{
+    
+    height: 120px;
+    width: 120px;
+    display: block;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 3px;
+}
 .fotos-radio{
     width: 13em;
     height: 16em;
